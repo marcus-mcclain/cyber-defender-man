@@ -4,4 +4,4 @@ Welcome to my cybersecurity portfolio. This repository was created to showcase m
 
 Each course folder includes writeups, the skills I developed, and links to relevant documents. You’ll also find my resume and other supporting files in subfolders.
 
-🔗 Visit my live site: [https://github.com/marcus-mcclain/cyber-defender-man](https://github.com/marcus-mcclain/cyber-defender-man)
+🔗 Visit my live site: [https://marcus-mcclain.github.io/cyber-defender-man/](https://marcus-mcclain.github.io/cyber-defender-man/)
