@@ -6,4 +6,4 @@
 - Packet analysis using ICMP (ping), UDP, TCP headers
 
 ## Highlight
-I analyzed a real-world DDoS scenario and wrote an incident report summarizing how firewall misconfiguration allowed ICMP packet flooding to overwhelm network resources for two hours:contentReference[oaicite:0]{index=0}.
+I analyzed a real-world DDoS scenario and wrote an incident report summarizing how firewall misconfiguration allowed ICMP packet flooding to overwhelm network resources for two hours.

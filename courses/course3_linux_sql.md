@@ -6,7 +6,7 @@
 - Writing SQL queries for log filtering and investigation
 
 ## Highlight: Linux Permissions
-In a hands-on exercise, I audited file permissions and removed unauthorized write access from hidden files to ensure the principle of least privilege:contentReference[oaicite:1]{index=1}.
+In a hands-on exercise, I audited file permissions, such as removing unauthorized write access from hidden files to ensure the principle of least privilege.
 
 ## Highlight: SQL Filtering
-I wrote SQL queries to filter failed login attempts, isolate events on specific dates, and exclude suspicious geolocations to support incident triage:contentReference[oaicite:2]{index=2}.
+I wrote SQL queries to filter failed login attempts, isolate events on specific dates, and exclude some geolocations to support incident triage.

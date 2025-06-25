@@ -6,4 +6,4 @@
 - Writing response plans congruent with NIST CSF
 
 ## Highlight
-I investigated a phishing ransomware attack and documented the 5 W's (Who, What, When, Where, Why) using an incident handler’s journal. I also analyzed a file hash in VirusTotal and documented a response strategy:contentReference[oaicite:7]{index=7}.
+I investigated a phishing ransomware attack and documented the 5 W's (Who, What, When, Where, Why) using an incident handler’s journal. I also analyzed a file hash in VirusTotal and documented a response strategy.

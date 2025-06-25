@@ -6,6 +6,6 @@
 - Security controls and compliance audit
 
 ## Highlight
-I conducted a vulnerability assessment for a Linux-based database system and recommended access control improvements, including MFA and encryption for data in transit:contentReference[oaicite:3]{index=3}.
+I conducted a vulnerability assessment for a Linux-based database system and recommended access control improvements, including MFA and encryption for data in transit.
 
-Additionally, I completed a risk assessment and compliance checklist for a company’s security program, identifying gaps in encryption, password policies, and least privilege implementation:contentReference[oaicite:4]{index=4}:contentReference[oaicite:5]{index=5}.
+Additionally, I completed a risk assessment and compliance checklist for a company’s security program, identifying gaps in encryption, password policies, and least privilege implementation.
